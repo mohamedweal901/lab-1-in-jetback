@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">learnJetback</string>
+    <string name="hint">Enter your phone number</string>
+</resources>
